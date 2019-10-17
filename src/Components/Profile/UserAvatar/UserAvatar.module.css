@@ -1,0 +1,10 @@
+.avatar {
+  display: flex;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  padding-top: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 40px;
+}

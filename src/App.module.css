@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: lightgrey;
+}
+
+.AppContainer {
+  display: flex;
+  width: 1200px;
+  height: auto;
+  margin: 0 auto;
+}

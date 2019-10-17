@@ -1,0 +1,10 @@
+.messagesBox {
+  display: flex;
+  width: 900px;
+  margin: 0 auto;
+  /* background-color: orange; */
+}
+
+.dialogs {
+  width: 350px;
+}

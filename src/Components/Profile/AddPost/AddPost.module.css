@@ -1,0 +1,8 @@
+.addPost {
+  width: 600px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+
+}
